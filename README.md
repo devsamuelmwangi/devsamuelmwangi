@@ -31,26 +31,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-<br />
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/devsamuelmwangi/spotify-now-playing/pull/1) in [devsamuelmwangi/spotify-now-playing](https://github.com/devsamuelmwangi/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/devsamuelmwangi/spotify-now-playing/issues/1) in [devsamuelmwangi/spotify-now-playing](https://github.com/devsamuelmwangi/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/devsamuelmwangi/free-developer-resources/issues/8) in [devsamuelmwangi/free-developer-resources](https://github.com/devsamuelmwangi/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/devsamuelmwangi/free-developer-resources/issues/8) in [devsamuelmwangi/free-developer-resources](https://github.com/devsamuelmwangi/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/devsamuelmwangi/free-developer-resources/issues/7) in [devsamuelmwangi/free-developer-resources](https://github.com/devsamuelmwangi/free-developer-resources)
-<!--END_SECTION:activity-->
+<br /> <br />  <br /> <br /> 
 
-</details>
+---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="devsamuelmwangi's GitHub Stats" src="https://github-readme-stats.devsamuelmwangi.vercel.app/api?username=devsamuelmwangi&show_icons=true&hide_border=true" />
-
-</details>
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=devsamuelmwangi&show_icons=true&hide_border=true" />
 
 [website]: https://devsamuel.herokuapp.com
 [linkedin]: https://ke.linkedin.com/in/#
+
+<br /> <br />  <br />  <br />  <br /> 
