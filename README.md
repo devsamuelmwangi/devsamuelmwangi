@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="# | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="devsamuelmwangi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -57,4 +57,4 @@
 </details>
 
 [website]: https://devsamuel.herokuapp.com
-[linkedin]: https://ke.linkedin.com/in/devsamuelmwangi
+[linkedin]: https://ke.linkedin.com/in/#
