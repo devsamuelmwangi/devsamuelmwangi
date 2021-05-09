@@ -2,17 +2,23 @@
 
 [![Website](https://img.shields.io/website?label=devsamuel.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://devsamuel.herokuapp.com)
 
+<br /> <br />
+
 ## Full-Stack Developer and Graphic Designer!!
 
 - 🔭 Dev Portfolio: (https://devsamuel.herokuapp.com)
 - 🥅 Graphic Design Portfolio: (https://devsamueldesign.herokuapp.com)
 
+---
+<br /><br />
 
 ### Connect with me:
 
 [<img align="left" alt="devsamuelmwangi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+
+---
+<br /><br />
 
 ### Languages, Frameworks and Tools:
 
