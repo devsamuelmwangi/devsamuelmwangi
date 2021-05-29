@@ -40,7 +40,7 @@
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsamuelmwangi&show_icons=true&theme=radical&count_private=true" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelmwangi&theme=radical)](https://github.com/devsamuelmwangi/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelmwangi&theme=radical&count_private=true)](https://github.com/devsamuelmwangi/github-readme-stats)
 
 
 [website]: https://devsamuel.herokuapp.com
