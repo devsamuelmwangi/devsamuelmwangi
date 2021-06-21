@@ -44,6 +44,6 @@
 
 
 [website]: https://devsamuel.herokuapp.com
-[linkedin]: https://ke.linkedin.com/in/#
+[linkedin]: https://www.linkedin.com/in/devsamuelmwangi
 
 <br /> <br />  <br />  <br />  <br /> 
