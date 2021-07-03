@@ -1,4 +1,4 @@
-### Hi there, I'm Samuel
+### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Samuel
 
 [![Website](https://img.shields.io/website?label=devsamuel.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://devsamuel.herokuapp.com)
 
@@ -10,8 +10,10 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="devsamuelmwangi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
+[<img align="left" alt="devsamuelmwangi | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<a href="https://www.github.com/devsamuelmwangi/">
+    <img src="https://img.shields.io/github/followers/devsamuelmwangi?style=social"/>     
+</a>&nbsp;&nbsp;
 
 ---
 
