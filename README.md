@@ -5,12 +5,12 @@
 ## Front-End Developer and Graphic Designer!!
 
 - 🔭 Dev Portfolio: (https://devsamuel.herokuapp.com)
-- 🥅 Graphic Design Portfolio: (https://devsamueldesign.herokuapp.com)
+<!-- - 🥅 Graphic Design Portfolio: (https://devsamueldesign.herokuapp.com) -->
 
 ---
 ### Connect with me:
 
-[<img align="left" alt="devsamuelmwangi | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<!-- [<img align="left" alt="devsamuelmwangi | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] -->
 <a href="https://www.github.com/devsamuelmwangi/">
     <img src="https://img.shields.io/github/followers/devsamuelmwangi?style=social"/>     
 </a>&nbsp;&nbsp;
@@ -46,6 +46,6 @@
 
 
 [website]: https://devsamuel.herokuapp.com
-[linkedin]: https://linkedin.com/in/devsamuelmwangi
+<!-- [linkedin]: https://linkedin.com/in/devsamuelmwangi -->
 
 <br /> <br />  <br />  <br />  <br /> 
