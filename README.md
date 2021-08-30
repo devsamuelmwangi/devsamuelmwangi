@@ -10,7 +10,7 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="devsamuelmwangi | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[linkedin]
+[<img align="left" alt="devsamuelmwangi | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <a href="https://www.github.com/devsamuelmwangi/">
     <img src="https://img.shields.io/github/followers/devsamuelmwangi?style=social"/>     
 </a>&nbsp;&nbsp;
