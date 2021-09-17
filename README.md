@@ -5,7 +5,7 @@
 ## Front-End Developer and Graphic Designer!!
 
 - 🔭 Dev Portfolio: (https://devsamuel.herokuapp.com)
-<!-- - 🥅 Graphic Design Portfolio: (https://devsamueldesign.herokuapp.com) -->
+- 🥅 Graphic Design Portfolio: (https://devsamueldesign.herokuapp.com)
 
 ---
 ### Connect with me:
