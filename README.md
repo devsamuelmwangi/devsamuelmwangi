@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" style="width:30px;">... I'm Samuel
+### Hi there 👋... I'm Samuel
 
 <!-- [![Website](https://img.shields.io/website?label=devsamuel.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://devsamuel.herokuapp.com) -->
 
@@ -8,6 +8,16 @@
 - 🥅 Graphic Design Portfolio: (https://devsamueldesign.herokuapp.com)
 
 ---
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=devsamuelmwangi.)
+
+<h2>GitHub Stats</h2>
+<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=devsamuelmwangi&count_private=true&show_icons=true&theme=cobalt">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&">
+</a><br>
+
 ### Connect with me:
 
 [<img align="left" alt="devsamuelmwangi | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
