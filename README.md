@@ -1,11 +1,11 @@
 ### Hi there 👋... I'm Samuel
 
-<!-- [![Website](https://img.shields.io/website?label=devsamuel.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://devsamuel.herokuapp.com) -->
+<!-- [![Website](https://img.shields.io/website?label=devsamuel.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://devsamuelmwangi.web.app) -->
 
 ## Front-End Developer and Graphic Designer!!
 
-- 🔭 Dev Portfolio: (https://devsamuel.herokuapp.com)
-- 🥅 Graphic Design Portfolio: (https://devsamueldesign.herokuapp.com)
+- 🔭 Dev Portfolio: (https://devsamuelmwangi.web.app)
+- 🥅 Graphic Design Portfolio: (https://devsamueldesign.web.app)
 
 ---
 
@@ -68,7 +68,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelmwangi&theme=radical&count_private=true)](https://github.com/devsamuelmwangi/github-readme-stats)
 
 
-[website]: https://devsamuel.herokuapp.com
+[website]: https://devsamuelmwangi.web.app
 [linkedin]: https://linkedin.com/in/devsamuelmwangi
 
 <br /> <br />  <br />  <br />  <br /> 
