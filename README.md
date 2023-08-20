@@ -59,9 +59,6 @@
 
 ---
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsamuelmwangi&show_icons=true&theme=radical&include_all_commits=true&hide=contribs,issues,stars&rank_icon=percentile" />
-
-
 
 [website]: https://devsamuelmwangi.web.app
 [linkedin]: https://linkedin.com/in/devsamuelmwangi
