@@ -14,6 +14,11 @@
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&">
 </a><br>
 
+ <br />  <br />   
+                              <p>  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsamuelmwangi&show_icons=true&theme=radical&include_all_commits=true&hide=contribs,issues,stars,commits,prs&rank_icon=percentile" /></p> <br />  <br />  <br />  <br />
+                              
+<br />  <br />  <br />  <br />
+
 ### Connect with me:
 
 [<img align="left" alt="devsamuelmwangi | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
