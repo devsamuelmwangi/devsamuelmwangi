@@ -59,9 +59,8 @@
 
 ---
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsamuelmwangi&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsamuelmwangi&show_icons=true&theme=radical&include_all_commits=true&hide=contribs,issues,stars&rank_icon=percentile" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelmwangi&theme=radical&count_private=true)](https://github.com/devsamuelmwangi/github-readme-stats)
 
 
 [website]: https://devsamuelmwangi.web.app
