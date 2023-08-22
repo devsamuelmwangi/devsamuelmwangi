@@ -13,9 +13,6 @@
 <a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=devsamuelmwangi&count_private=true&show_icons=true&theme=cobalt">
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&">
 </a><br>
-
- <br />  <br />   
-                              <p>  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsamuelmwangi&show_icons=true&theme=radical&include_all_commits=true&hide=contribs,issues,stars,commits,prs&rank_icon=percentile" /></p> <br />  <br />  <br />  <br />
                               
 <br />  <br />  <br />  <br />
 
