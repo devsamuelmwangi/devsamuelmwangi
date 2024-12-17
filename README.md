@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=devsamuel.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](https://devsamuelmwangi.web.app) -->
 
-## Software Engineer and Graphic Designer!!
+## Software Engineer and Data Scientist!!
 
 - 🔭 Dev Portfolio: (https://devsamuelmwangi.web.app)
 - 🥅 Graphic Design Portfolio: (https://devsamueldesign.web.app)
