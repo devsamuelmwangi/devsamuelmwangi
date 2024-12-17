@@ -10,9 +10,7 @@
 ---
 
 <h2>GitHub Stats</h2>
-<a align="center" href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=devsamuelmwangi&count_private=true&show_icons=true&theme=cobalt">
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&">
-</a><br>
+<a align="center" href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=devsamuelmwangi&amp;count_private=true&amp;show_icons=true&amp;theme=cobalt"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&amp;"></a>
                               
 <br />  <br />  <br />  <br />
 
