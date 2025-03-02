@@ -5,7 +5,6 @@
 ## Software Engineer!
 
 - 🔭 Dev Portfolio: (https://devsamuelmwangi.web.app)
-- 🥅 Graphic Design Portfolio: (https://devsamueldesign.web.app)
 
 ---
 
