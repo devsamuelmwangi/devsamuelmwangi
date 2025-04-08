@@ -4,8 +4,6 @@
 
 ## Software Engineer!
 
-- 🔭 Dev Portfolio: (https://devsamuelmwangi.web.app)
-
 ---
 
 <h2>GitHub Stats</h2>
