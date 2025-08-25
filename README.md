@@ -2,17 +2,14 @@
 
 <!-- [![Website](https://img.shields.io/website?label=devsamuel.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fdevsamuel.herokuapp.com)](#) -->
 
-## Front-End Developer and Graphic Designer!!
-
-- 🔭 Dev Portfolio: (#)
-- 🥅 Graphic Design Portfolio: (https://devsamueldesign.web.app)
+## FullStack Developer!
 
 ---
 
 <h2>GitHub Stats</h2>
-<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=devsamuelmwangi&count_private=true&show_icons=true&theme=cobalt">
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&">
-</a><br>
+<a align="center" href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=devsamuelmwangi&amp;count_private=true&amp;show_icons=true&amp;theme=cobalt"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&amp;"></a>
+                              
+<br />  <br />  <br />  <br />
 
 ### Connect with me:
 
@@ -58,10 +55,6 @@
 <br/>
 
 ---
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsamuelmwangi&show_icons=true&theme=radical&count_private=true" />
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelmwangi&theme=radical&count_private=true)](https://github.com/devsamuelmwangi/github-readme-stats)
 
 
 [website]: #
