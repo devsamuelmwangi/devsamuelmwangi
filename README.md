@@ -26,16 +26,12 @@ I have 4+ years of professional experience building **scalable web, cloud, and d
 - 👯 Open to collaborating on **Full-Stack and Data-Driven Projects**  
 - 💬 Ask me about **breaking into software engineering and data science**   
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsamuelmwangi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br> <br>
 
 ### 📊 GitHub Metrics
 ![Metrics](./github-metrics.svg)
-
-
-                              
-<br />  <br />  <br />  <br />
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsamuelmwangi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />  <br /> 
 
