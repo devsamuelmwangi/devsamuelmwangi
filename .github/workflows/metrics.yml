@@ -1,11 +1,10 @@
 name: Metrics
 
 on:
-  # Run every 24 hours
-  schedule: 
-    - cron: "0 0 * * *"
-  # Run manually from Actions tab
-  workflow_dispatch:
+  # Update daily at midnight Nairobi time
+  schedule:
+    - cron: "0 21 * * *"  # 21:00 UTC = 00:00 Nairobi
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   github-metrics:
@@ -13,21 +12,54 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your username
           user: devsamuelmwangi
-          # Use the token from repo secrets
           token: ${{ secrets.METRICS_TOKEN }}
-          # Base configuration
+
+          # Base template
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Nairobi
-          # Plugins you want enabled
+          config_twemoji: yes
+          config_display: large
+
+          # Languages
           plugin_languages: yes
-          plugin_languages_ignored: html, css # optional: ignore non-core langs
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_categories: programming, markup, data
+          plugin_languages_limit: 12
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_ignored: html, css 
+          plugin_languages_indepth: yes          # factor in private + org repos
+          plugin_languages_analysis_timeout: 30
+
+          # Commit Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: devsamuelmwangi/github-metrics, devsamuelmwangi/student-management-system
+
+          # Stars & Followup
           plugin_stars: yes
           plugin_followup: yes
-          plugin_repositories: yes
+
+          # DevOps / Infra
+          plugin_ci: yes
+          plugin_ci_skipped: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://devsamuelmwangi.web.app
+
+          # Data Science & Analytics
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 12
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+
+          # Organizations
+          plugin_organizations: yes

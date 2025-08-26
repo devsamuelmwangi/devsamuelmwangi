@@ -28,14 +28,6 @@ I have 4+ years of professional experience building **scalable web, cloud, and d
 
 
 
-### GitHub Stats
-<a align="center" href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=devsamuelmwangi&amp;count_private=true&amp;show_icons=true&amp;theme=cobalt"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsamuelmwangi&amp;"></a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsamuelmwangi&theme=dark&hide_border=true)
-
-![Metrics](https://github.com/devsamuelmwangi/devsamuelmwangi/blob/main/github-metrics.svg)
-
-
 ### 📊 GitHub Metrics
 ![Metrics](./github-metrics.svg)
 
@@ -43,7 +35,7 @@ I have 4+ years of professional experience building **scalable web, cloud, and d
                               
 <br />  <br />  <br />  <br />
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsamuelmwangi&theme=github-dark-dimmed&custom_title=Samuel's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsamuelmwangi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />  <br /> 
 
