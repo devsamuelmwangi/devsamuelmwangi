@@ -9,7 +9,7 @@ I have 4+ years of professional experience building **scalable web, cloud, and d
 ---
 
 
-### 🛠️ Tech Stack & Skills  
+### Tech Stack & Skills  
 
 - **Frontend Development**: React, Redux, Next.js, React Native, JavaScript (ES6+), TypeScript, Sass, Material UI, Bootstrap, Chart.js, D3.js  
 - **Backend Development**: Node.js, Express.js, Nest.js, Laravel, RESTful APIs, Authentication & Authorization (OAuth, JWT)  
@@ -20,17 +20,17 @@ I have 4+ years of professional experience building **scalable web, cloud, and d
 - **Soft Skills**: Technical Mentorship, Agile Methodologies, Problem-Solving, Communication, Project Management  
 
 
-### 🌱 Current Focus  
+### Current Focus  
 
-- 🔭 Building **scalable web and cloud solutions**  
-- 👯 Open to collaborating on **Full-Stack and Data-Driven Projects**  
-- 💬 Ask me about **breaking into software engineering and data science**   
+- Building **scalable web and cloud solutions**  
+- Open to collaborating on **Full-Stack and Data-Driven Projects**  
+- Ask me about **breaking into software engineering and data science**   
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsamuelmwangi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br> <br>
 
-### 📊 GitHub Metrics
+### GitHub Metrics
 ![Metrics](./github-metrics.svg)
 
 <br />  <br /> 
@@ -43,7 +43,7 @@ I have 4+ years of professional experience building **scalable web, cloud, and d
 
 ---
 
-### 🧰 Languages, Frameworks & Tools  
+### Languages, Frameworks & Tools  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
