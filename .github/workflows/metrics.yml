@@ -18,19 +18,19 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Nairobi
-          config_twemoji: true
+          config_twemoji: yes
           config_display: large
 
-          plugin_languages: true
+          plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
           plugin_languages_categories: programming, markup, data
           plugin_languages_limit: 12
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_ignored: html, css
-          plugin_languages_indepth: true 
+          plugin_languages_ignored: html, css 
+          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
 
-          plugin_isocalendar: true
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           plugin_repositories: true
@@ -40,26 +40,21 @@ jobs:
           plugin_repositories_featured: |
             devsamuelmwangi/msio
             devsamuelmwangi/student-management-system-server
-      
-          plugin_stars: true
-          plugin_followup: true
+          plugin_repositories_order: starred
 
-          plugin_ci: true
-          plugin_ci_skipped: true
-          plugin_pagespeed: true
+          plugin_stars: yes
+          plugin_followup: yes
+
+
+          plugin_pagespeed: yes
           plugin_pagespeed_url: https://devsamuelmwangi.web.app
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} 
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
-          plugin_topics: true
+          plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 12
 
-          plugin_achievements: true
+          plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
-          plugin_achievements_secrets: true
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-
-          plugin_organizations: true
+          plugin_achievements_secrets: yes
