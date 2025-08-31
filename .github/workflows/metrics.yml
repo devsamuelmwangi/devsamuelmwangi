@@ -42,15 +42,17 @@ jobs:
           plugin_isocalendar_duration: full-year
 
           plugin_repositories: yes
+          plugin_repositories_featured: devsamuelmwangi/msio, devsamuelmwangi/student-management-system-server
+          plugin_repositories_pinned: 0
+          plugin_repositories_starred: 0
+          plugin_repositories_random: 0
+          plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_affiliations: owner, collaborator, organization_member
-          plugin_repositories_starred: yes
-          plugin_repositories_pinned: yes
-          plugin_repositories_random: yes
-          plugin_repositories_forks: no
-          plugin_repositories_order: pinned, starred, random
+          plugin_repositories_forks: yes
+
+      
           plugin_stars: yes
           plugin_followup: yes
-
 
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://devsamuelmwangi.web.app
