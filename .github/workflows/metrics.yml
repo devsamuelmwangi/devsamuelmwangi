@@ -3,8 +3,8 @@ name: Metrics
 on:
   # Update daily at midnight Nairobi time
   schedule:
-    - cron: "0 21 * * *"  # 21:00 UTC = 00:00 Nairobi
-  workflow_dispatch:  # Manual trigger
+    - cron: "0 21 * * *" # 21:00 UTC = 00:00 Nairobi
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -15,51 +15,51 @@ jobs:
           user: devsamuelmwangi
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Base template
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Nairobi
-          config_twemoji: yes
+          config_twemoji: true
           config_display: large
 
-          # Languages
-          plugin_languages: yes
+          plugin_languages: true
           plugin_languages_sections: most-used, recently-used
           plugin_languages_categories: programming, markup, data
           plugin_languages_limit: 12
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_ignored: html, css 
-          plugin_languages_indepth: yes          # factor in private + org repos
+          plugin_languages_ignored: html, css
+          plugin_languages_indepth: true 
           plugin_languages_analysis_timeout: 30
 
-          # Commit Calendar
-          plugin_isocalendar: yes
+          plugin_isocalendar: true
           plugin_isocalendar_duration: full-year
 
-          # Repositories
-          plugin_repositories: yes
-          plugin_repositories_featured: devsamuelmwangi/github-metrics, devsamuelmwangi/student-management-system
+          plugin_repositories: true
+          plugin_repositories_affiliations: owner, collaborator, organization_member
+          plugin_repositories_limit: 0
 
-          # Stars & Followup
-          plugin_stars: yes
-          plugin_followup: yes
+          plugin_repositories_featured: |
+            devsamuelmwangi/student-management-system-server
+            MoringaCode/msio
+      
+          plugin_stars: true
+          plugin_followup: true
 
-          # DevOps / Infra
-          plugin_ci: yes
-          plugin_ci_skipped: yes
-          plugin_pagespeed: yes
+          plugin_ci: true
+          plugin_ci_skipped: true
+          plugin_pagespeed: true
           plugin_pagespeed_url: https://devsamuelmwangi.web.app
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} 
 
-          # Data Science & Analytics
-          plugin_topics: yes
+          plugin_topics: true
           plugin_topics_mode: mastered
           plugin_topics_limit: 12
 
-          # Achievements
-          plugin_achievements: yes
+          plugin_achievements: true
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
+          plugin_achievements_secrets: true
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
 
-          # Organizations
-          plugin_organizations: yes
+          plugin_organizations: true
