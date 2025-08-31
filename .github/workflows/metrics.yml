@@ -1,9 +1,8 @@
 name: Metrics
 
 on:
-  # Update daily at midnight Nairobi time
   schedule:
-    - cron: "0 21 * * *" # 21:00 UTC = 00:00 Nairobi
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 permissions:
