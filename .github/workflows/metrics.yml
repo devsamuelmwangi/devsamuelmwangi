@@ -38,8 +38,8 @@ jobs:
           plugin_repositories_limit: 0
 
           plugin_repositories_featured: |
+            devsamuelmwangi/msio
             devsamuelmwangi/student-management-system-server
-            MoringaCode/msio
       
           plugin_stars: true
           plugin_followup: true
