@@ -1,30 +1,33 @@
-# Hi there 👋  
+# Hi there 👋
 
-My name is **Samuel G. Mwangi**  
+My name is **Samuel G. Mwangi**
 
-I am a **Full-Stack Engineer** based in Nairobi, Kenya.  
+I am a **Full-Stack Developer & Data Engineer** based in Nairobi, Kenya.
 
-I have 4+ years of professional experience building **scalable web, cloud, and data-driven applications**, while also mentoring developers and data scientists. My expertise spans **React, Node.js, Laravel, and PostgreSQL**, with strong skills in **cloud deployment (AWS, GCP)**, **DevOps practices (CI/CD, Docker, Kubernetes)**, and **data science/analytics with Python**.  
+I have 4+ years, growing from a **Data Analyst → Data Scientist → Data Engineer**, gaining end-to-end experience in building **scalable web applications, cloud-based systems, and data pipelines**. My expertise spans **React, Node.js, Laravel, and PostgreSQL**, **cloud deployment (AWS, GCP)**, **DevOps practices (CI/CD, Docker, Kubernetes)**, and **data engineering (ETL pipelines, data warehousing, and distributed systems)**.
+
+I’m passionate about delivering **production-grade applications**, optimizing data workflows, and turning raw information into scalable systems that drive impact. Beyond my professional roles, I also provide mentorship in software engineering and data science fundamentals, having mentored over 700+ developers (**software developers and data scientists**) at Moringa School.
 
 ---
 
+### Tech Stack & Skills
 
-### Tech Stack & Skills  
+* **Frontend Development**: React, Redux, Next.js, React Native, JavaScript (ES6+), TypeScript, Sass, Material UI, Bootstrap, Chart.js, D3.js
+* **Backend Development**: Node.js, Express.js, Nest.js, Laravel, RESTful APIs, Authentication & Authorization (OAuth, JWT)
+* **Databases & Data Management**: PostgreSQL, Redis, Database Design & Data Modeling, Query Optimization, Indexing, Caching
+* **Data Engineering**: ETL/ELT Pipelines (Airflow, dbt), Data Lakes & Warehouses, Streaming (Kafka), Cloud Data Tools (AWS Redshift, GCP BigQuery)
+* **DevOps & Systems Design**: Systems Architecture, CI/CD, Docker, Kubernetes, Nginx, API Design, Cloud Deployment (AWS, GCP), Git & GitHub
+* **Testing & Quality Assurance**: Jest, Mocha, Chai, Cypress
+* **Data Science & Analytics**: Python (Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn), Tableau, Power BI, Data Visualization, Machine Learning 
+* **Soft Skills**: Agile Methodologies, Problem-Solving, Cross-Functional Collaboration, Technical Mentorship
 
-- **Frontend Development**: React, Redux, Next.js, React Native, JavaScript (ES6+), TypeScript, Sass, Material UI, Bootstrap, Chart.js, D3.js  
-- **Backend Development**: Node.js, Express.js, Nest.js, Laravel, RESTful APIs, Authentication & Authorization (OAuth, JWT)  
-- **Databases & Data Management**: PostgreSQL, Redis, Data Modeling, Query Optimization, Indexing, Caching, Data Warehousing (BigQuery)  
-- **DevOps & Systems Design**: Systems Architecture, CI/CD, Docker, Kubernetes, Nginx, API Design, Cloud Deployment (AWS, GCP), Git & GitHub  
-- **Testing & Quality Assurance**: Jest, Mocha, Chai, Helmet.js, Cypress, Information Security  
-- **Data Science & Analytics**: Python (Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn), Tableau, Power BI, Statistical Analysis, Data Visualization  
-- **Soft Skills**: Technical Mentorship, Agile Methodologies, Problem-Solving, Communication, Project Management  
-
+---
 
 ### Current Focus  
 
 - Building **scalable web and cloud solutions**  
 - Open to collaborating on **Full-Stack and Data-Driven Projects**  
-- Ask me about **breaking into software engineering and data science**   
+- Ask me about **breaking into software and data engineering**   
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsamuelmwangi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
