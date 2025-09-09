@@ -2,32 +2,36 @@
 
 My name is **Samuel G. Mwangi**
 
-I am a **Full-Stack Developer & Data Engineer** based in Nairobi, Kenya.
+I’m a **Full-Stack & Data Engineer** based in Nairobi, Kenya.
 
-I have 4+ years, growing from a **Data Analyst → Data Scientist → Data Engineer**, gaining end-to-end experience in building **scalable web applications, cloud-based systems, and data pipelines**. My expertise spans **React, Node.js, Laravel, and PostgreSQL**, **cloud deployment (AWS, GCP)**, **DevOps practices (CI/CD, Docker, Kubernetes)**, and **data engineering (ETL pipelines, data warehousing, and distributed systems)**.
+With 4+ years of experience, I’ve grown from **Full-Stack Developer → Data Analyst → Data Scientist → Data Engineer & Full-Stack Developer**, giving me end-to-end expertise in building **scalable web applications, modern data pipelines, and cloud-based systems**.
 
-I’m passionate about delivering **production-grade applications**, optimizing data workflows, and turning raw information into scalable systems that drive impact. Beyond my professional roles, I also provide mentorship in software engineering and data science fundamentals, having mentored over 700+ developers (**software developers and data scientists**) at Moringa School.
+My core stack includes **React, Node.js, PostgreSQL**, and **cloud deployment on AWS & GCP**. I specialize in **ETL workflows (Airflow, dbt), data warehousing (BigQuery, Redshift), DevOps practices (CI/CD, Docker, Kubernetes)**, and designing systems that turn raw data into actionable insights.
 
----
-
-### Tech Stack & Skills
-
-* **Frontend Development**: React, Redux, Next.js, React Native, JavaScript (ES6+), TypeScript, Sass, Material UI, Bootstrap, Chart.js, D3.js
-* **Backend Development**: Node.js, Express.js, Nest.js, Laravel, RESTful APIs, Authentication & Authorization (OAuth, JWT)
-* **Databases & Data Management**: PostgreSQL, Redis, Database Design & Data Modeling, Query Optimization, Indexing, Caching
-* **Data Engineering**: ETL/ELT Pipelines (Airflow, dbt), Data Lakes & Warehouses, Streaming (Kafka), Cloud Data Tools (AWS Redshift, GCP BigQuery)
-* **DevOps & Systems Design**: Systems Architecture, CI/CD, Docker, Kubernetes, Nginx, API Design, Cloud Deployment (AWS, GCP), Git & GitHub
-* **Testing & Quality Assurance**: Jest, Mocha, Chai, Cypress
-* **Data Science & Analytics**: Python (Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn), Tableau, Power BI, Data Visualization, Machine Learning 
-* **Soft Skills**: Agile Methodologies, Problem-Solving, Cross-Functional Collaboration, Technical Mentorship
+I’m passionate about delivering **production-grade applications and optimized data workflows** that drive measurable business impact. Beyond engineering, I mentor developers and data scientists, having guided **700+ upcoming professionals** through workshops, tutorials, and community contributions.
 
 ---
 
-### Current Focus  
+### Tech Stack
 
-- Building **scalable web and cloud solutions**  
-- Open to collaborating on **Full-Stack and Data-Driven Projects**  
-- Ask me about **breaking into software and data engineering**   
+* **Frontend**: React, Next.js, TypeScript, Redux, Data Visualization (D3.js, Chart.js), UI Frameworks (Tailwind, Material UI, Sass, Bootstrap)
+* **Backend**: Node.js, Express.js, Nest.js, RESTful APIs, Authentication (OAuth, JWT)
+* **Data Infrastructure**: PostgreSQL, Redis, Airflow, dbt, Kafka, BigQuery, Redshift
+* **DevOps & Systems Design**: Systems Architecture, CI/CD, Docker, Kubernetes, Cloud Deployment (**AWS for microservices, GCP for data pipelines**)
+* **Data Science & Analytics (Background Expertise)**: Python (Pandas, NumPy, Scikit-learn, TensorFlow), Data Visualization, Statistical Analysis, Business Intelligence (Tableau, Power BI)
+* **Testing**: Jest, Cypress
+* **Soft Skills**: Mentorship, Agile Collaboration, Problem-Solving
+
+---
+
+### Current Focus
+
+* Building **scalable full-stack and cloud solutions**
+* Designing **data engineering pipelines and architectures**
+* Sharing knowledge on **software & data engineering**
+
+---
+
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsamuelmwangi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -54,7 +58,6 @@ I’m passionate about delivering **production-grade applications**, optimizing 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
