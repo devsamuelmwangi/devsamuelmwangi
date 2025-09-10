@@ -2,7 +2,7 @@
 
 My name is **Samuel G. Mwangi**
 
-I’m a **Full-Stack & Data Engineer** based in Nairobi, Kenya.
+I’m a **Full-Stack Developer & Data Engineer** based in Nairobi, Kenya.
 
 With 4+ years of experience, I’ve grown from **Full-Stack Developer → Data Analyst → Data Scientist → Data Engineer & Full-Stack Developer**, giving me end-to-end expertise in building **scalable web applications, modern data pipelines, and cloud-based systems**.
 
