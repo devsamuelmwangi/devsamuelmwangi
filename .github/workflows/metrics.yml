@@ -34,7 +34,7 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_details: percentage, bytes-size
           plugin_languages_ignored: html, css
-          plugin_languages_indepth: no
+          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
 
           plugin_isocalendar: yes
@@ -44,6 +44,10 @@ jobs:
       
           plugin_stars: yes
           plugin_followup: yes
+
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://devsamuelmwangi.web.app
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
           plugin_topics: yes
           plugin_topics_mode: mastered
