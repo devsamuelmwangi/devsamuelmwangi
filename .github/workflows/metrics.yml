@@ -45,10 +45,6 @@ jobs:
           plugin_stars: yes
           plugin_followup: yes
 
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://devsamuelmwangi.web.app
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 12
