@@ -34,14 +34,10 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_details: percentage, bytes-size
           plugin_languages_ignored: html, css
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_indepth: no
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-
-      
           plugin_stars: yes
           plugin_followup: yes
 
